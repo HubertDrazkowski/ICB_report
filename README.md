@@ -1,5 +1,5 @@
 # ICB_report
-The exercise of writing report of possible extensions to the (Huyuk et al., 2022) paper about ICB problem
+The repository for exercise of writing report of possible extensions to the (Huyuk et al., 2022) paper about Inverse Contextual Bandits problem.
 
 TODO
 + run.sh
